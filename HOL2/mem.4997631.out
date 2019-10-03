@@ -1,0 +1,9 @@
++ cuda-memcheck ./vAdd 1000000 256
+Initializing input arrays.
+Running sequential job.
+	Sequential Job Time: 2.83 ms
+Running parallel job.
+	Parallel Job Time: 2.79 ms
+Correct result. No errors were found.
+========= CUDA-MEMCHECK
+========= ERROR SUMMARY: 0 errors

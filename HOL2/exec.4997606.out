@@ -1,0 +1,7 @@
++ ./vAdd 1000 32
+Initializing input arrays.
+Running sequential job.
+	Sequential Job Time: 0.01 ms
+Running parallel job.
+	Parallel Job Time: 0.08 ms
+Error starting element 250, 0 != 3
